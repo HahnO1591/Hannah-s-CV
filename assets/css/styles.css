@@ -60,20 +60,20 @@ html {
 
 /* Variables Dark Theme */
 body.dark-theme {
-  --rightside-title-color: #280142;
-  --rightside-subtitle1-color: #65149b;
-  --rightside-hoverlink-color: #65149b;
-  --right-rounder-line: #280142;
-  --left-rounder-line: #280142;
-  --leftside-title-color: #280142;
-  --leftside-position-color: #280142;
-  --leftside-date-color: #65149b;
-  --left-icon: #280142;
-  --text-color-right: #000000;
+  --rightside-title-color: #5c3802;
+  --rightside-subtitle1-color: #6b450c;
+  --rightside-hoverlink-color: #6b450c;
+  --right-rounder-line: #1a1000;
+  --left-rounder-line: #5c3802;
+  --leftside-title-color: #5c3802;
+  --leftside-position-color: #1a1000;
+  --leftside-date-color: #6b450c;
+  --left-icon: #1a1000;
+  --text-color-right: #1a1000;
   --container-color: #fafafa;
   --container-color-alt: #d8d6d6;
-  --button: #280142;
-  --button-hover: #65149b;
+  --button: #1a1000;
+  --button-hover: #5c3802;
   --button-link-hover: #ffffff;
   --body-color: #fcfcfc;
   --background-round-line: #15b0c8;
